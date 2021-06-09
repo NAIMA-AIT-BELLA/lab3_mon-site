@@ -1,0 +1,33 @@
+
+col-4
+{
+    color: blue;
+}
+h1
+{
+    color:aqua;
+}
+ h5{
+    color:blue;
+ }
+img{
+    width: 100%;
+}
+div{
+    padding:5px
+}
+.txtBlog{
+    font-weight: bold;
+    color: dodgerblue;
+}
+.article{
+    font-size:large;
+    color: deepskyblue;
+
+}
+@media (min-width: 992px){
+    .article{
+        font-size: small;
+        color: deepskyblue; 
+    }
+}
